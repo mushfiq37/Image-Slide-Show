@@ -1,0 +1,24 @@
+G:\Projects\C# Projects\Image Slide Show\Image Slide Show\bin\Debug\Image Slide Show.exe.config
+G:\Projects\C# Projects\Image Slide Show\Image Slide Show\bin\Debug\Image Slide Show.exe
+G:\Projects\C# Projects\Image Slide Show\Image Slide Show\bin\Debug\Image Slide Show.pdb
+G:\Projects\C# Projects\Image Slide Show\Image Slide Show\obj\Debug\Image Slide Show.csprojResolveAssemblyReference.cache
+G:\Projects\C# Projects\Image Slide Show\Image Slide Show\obj\Debug\Image_Slide_Show.Form1.resources
+G:\Projects\C# Projects\Image Slide Show\Image Slide Show\obj\Debug\Image_Slide_Show.Properties.Resources.resources
+G:\Projects\C# Projects\Image Slide Show\Image Slide Show\obj\Debug\Image Slide Show.csproj.GenerateResource.Cache
+G:\Projects\C# Projects\Image Slide Show\Image Slide Show\obj\Debug\Image Slide Show.exe
+G:\Projects\C# Projects\Image Slide Show\Image Slide Show\obj\Debug\Image Slide Show.pdb
+F:\Projects\C# Projects\Image Slide Show\Image Slide Show\bin\Debug\Image Slide Show.exe.config
+F:\Projects\C# Projects\Image Slide Show\Image Slide Show\obj\Debug\Image Slide Show.exe
+F:\Projects\C# Projects\Image Slide Show\Image Slide Show\obj\Debug\Image Slide Show.pdb
+F:\Projects\C# Projects\Image Slide Show\Image Slide Show\bin\Debug\Image Slide Show.exe
+F:\Projects\C# Projects\Image Slide Show\Image Slide Show\bin\Debug\Image Slide Show.pdb
+F:\Projects\C# Projects\Image Slide Show\Image Slide Show\bin\Debug\mscorlib.dll
+F:\Projects\C# Projects\Image Slide Show\Image Slide Show\bin\Debug\normidna.nlp
+F:\Projects\C# Projects\Image Slide Show\Image Slide Show\bin\Debug\normnfc.nlp
+F:\Projects\C# Projects\Image Slide Show\Image Slide Show\bin\Debug\normnfd.nlp
+F:\Projects\C# Projects\Image Slide Show\Image Slide Show\bin\Debug\normnfkc.nlp
+F:\Projects\C# Projects\Image Slide Show\Image Slide Show\bin\Debug\normnfkd.nlp
+F:\Projects\C# Projects\Image Slide Show\Image Slide Show\obj\Debug\Image Slide Show.csprojResolveAssemblyReference.cache
+F:\Projects\C# Projects\Image Slide Show\Image Slide Show\obj\Debug\Image_Slide_Show.Form1.resources
+F:\Projects\C# Projects\Image Slide Show\Image Slide Show\obj\Debug\Image_Slide_Show.Properties.Resources.resources
+F:\Projects\C# Projects\Image Slide Show\Image Slide Show\obj\Debug\Image Slide Show.csproj.GenerateResource.Cache
